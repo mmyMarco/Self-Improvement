@@ -1,6 +1,6 @@
-## .NET 类库概述 [链接](https://docs.microsoft.com/zh-cn/dotnet/standard/class-library-overview)
+# .NET 类库概述 [链接](https://docs.microsoft.com/zh-cn/dotnet/standard/class-library-overview)
 
-### 系统命名空间 System 
+## 系统命名空间 System 
 
 - 概述:System 命名空间是 .NET 中基本类型的根命名空间，此命名空间包括宝表示有所有应用程序用的基本数据类型的类。 
 - .NET Core 3.1  
