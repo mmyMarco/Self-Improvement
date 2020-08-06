@@ -1,6 +1,7 @@
 # Lua
 
- [Lua 5.3 参考手册](https://cloudwu.github.io/lua53doc/manual.html)
+ 1. [Lua 5.3 参考手册](https://cloudwu.github.io/lua53doc/manual.html)
+ 2. [Lua Users](http://lua-users.org)
  
 ## 数据结构
 
