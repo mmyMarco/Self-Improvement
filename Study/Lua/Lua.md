@@ -37,4 +37,8 @@
 4. [腾讯游戏学院](https://gameinstitute.qq.com/community/tag/slua)
 5. [SLua入门学习](https://gameinstitute.qq.com/community/detail/124143)
 
+### XLua
+
+1. [腾讯开源 XLua](https://github.com/Tencent/xLua)
+
 
