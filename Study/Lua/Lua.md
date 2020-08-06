@@ -12,7 +12,7 @@
 
 ### Table
 
-  1. [Lua中的table函数库](https://www.cnblogs.com/whiteyun/archive/2009/08/10/1543139.html)
+  1. [Lua 中的 table 函数库](https://www.cnblogs.com/whiteyun/archive/2009/08/10/1543139.html)
   
 ### 堆栈
 
@@ -20,22 +20,22 @@
   
 ## 内嵌函数
   
-  1. [Lua pcall及xpcall函数](https://qinguan.github.io/2018/04/14/lua-pcall-and-xpcall/)
+  1. [Lua pcall 及 xpcall 函数](https://qinguan.github.io/2018/04/14/lua-pcall-and-xpcall/)
 
 ## 性能优化 
 
-1. [luahook获取lua性能](http://blog.crasheye.cn/lua-hook-performance.html)
+1. [luahook获取 lua 性能](http://blog.crasheye.cn/lua-hook-performance.html)
 2. [Lua·001·性能优化](https://www.jianshu.com/p/58da61bfdca9)
 
 ## 热更新原理
 
 ### SLua
 
-1. [基于Unity3D的Lua热更新](https://blog.csdn.net/qq_39824797/article/details/88868309)
+1. [基于 Unity3D 的 Lua 热更新](https://blog.csdn.net/qq_39824797/article/details/88868309)
 2. [腾讯学习学院 Unity资源管理框架XAsset](https://gameinstitute.qq.com/article/detail/38556)
-3. [从零开始的SLua](https://blog.csdn.net/NotMz/article/details/79666208)
+3. [从零开始的 SLua](https://blog.csdn.net/NotMz/article/details/79666208)
 4. [腾讯游戏学院](https://gameinstitute.qq.com/community/tag/slua)
-5. [SLua入门学习](https://gameinstitute.qq.com/community/detail/124143)
+5. [SLua 入门学习](https://gameinstitute.qq.com/community/detail/124143)
 
 ### XLua
 
