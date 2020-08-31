@@ -6,6 +6,11 @@
 - [Unity资源管理框架XAsset](http://gad.qq.com/article/detail/38556)
 - [AssetBundle 持续学习](https://docs.unity3d.com/ScriptReference/AssetBundle.html)
 - [Unity引擎UI模块知识Tree](https://blog.uwa4d.com/archives/UWA_UITree2.html)
+- [Untiy CN](https://unity.cn/articles)
+- [Untiy Connect](https://connect.unity.com)
+- [腾讯游戏学院](https://gameinstitute.qq.com)
+- [UWA 学堂](https://edu.uwa4d.com/)
+- [siki 学院](http://www.sikiedu.com/)
 
 ## Single
 
