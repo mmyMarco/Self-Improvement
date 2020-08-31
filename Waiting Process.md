@@ -24,6 +24,10 @@
 - [Unity资源管理-资源（Assets）、对象（Objects）和序列化](https://gameinstitute.qq.com/community/detail/125027)
 - [Unity资源机制](https://gameinstitute.qq.com/community/detail/110986)
 - [Unity动态加载机制与内存管理](https://gameinstitute.qq.com/community/detail/120372)
+- [关于Unity中的NGUI优化，你可能遇到这些问题](http://blog.sina.com.cn/s/blog_155a1f2470102x9cs.html)
+- [Unity中资源依赖关系获取效率优化](https://zhuanlan.zhihu.com/p/41857024)
+- [Unity资源处理机制（Assets/WWW/AssetBundle/...）读取和加载资源方式详解](https://blog.csdn.net/swj524152416/article/details/54022282)
+- [《Unity3D高级编程之进阶主程》第五章，3D模型与动画(一) - 美术资源的规范](http://www.luzexi.com/2018/08/03/Unity3D%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E4%B9%8B%E8%BF%9B%E9%98%B6%E4%B8%BB%E7%A8%8B-3D%E6%A8%A1%E5%9E%8B%E4%B8%8E%E5%8A%A8%E7%94%BB1)
 
 ## UIAnim
 
