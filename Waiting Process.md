@@ -21,7 +21,8 @@
 - [Unity学习——变换(Transform)组件](https://zhuanlan.zhihu.com/p/61419272)
 - [高川：详解Unity Asset的一生 ](https://connect.unity.com/events/unityasset)
 - [雨松MOMO直播：DOTS从原理到应用 ](https://connect.unity.com/events/uug_0620)
-- []()
+- [Unity资源管理-资源（Assets）、对象（Objects）和序列化](https://gameinstitute.qq.com/community/detail/125027)
+- [Unity资源机制](https://gameinstitute.qq.com/community/detail/110986)
 
 ## UIAnim
 
