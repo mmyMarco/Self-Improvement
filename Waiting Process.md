@@ -31,6 +31,7 @@
 - [游戏UI框架设计(一)](https://m.yisu.com/zixun/50288.html)
 - [Unity手游实战：从0开始SLG——UI框架篇（一）各种UI框架模型简介](https://cloud.tencent.com/developer/article/1662265)
 - [游戏UI框架设计(一) : 架构设计理论篇](https://www.cnblogs.com/LiuGuozhu/p/6416098.html)
+- [string.gsub（）用法](https://www.cnblogs.com/xiaoleiel/p/8295744.html)
 
 ## UIAnim
 
