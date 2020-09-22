@@ -43,3 +43,4 @@
 - [Unity火爆插件Behavior Designer行为树插件学习](https://www.cnblogs.com/jiahuafu/p/11451151.html)
 - [Unity Bolt插件 基本使用](https://www.cnblogs.com/Fasty/p/9859076.html)
 - [游戏AI - 行为树Part1：简介](https://zhuanlan.zhihu.com/p/19890016)
+- [可视化编程插件Bolt的入门介绍及与PlayMaker的对比](https://www.jianshu.com/p/1ef68fb11321)
