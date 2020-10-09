@@ -11,6 +11,7 @@
 - [腾讯游戏学院](https://gameinstitute.qq.com)
 - [UWA 学堂](https://edu.uwa4d.com/)
 - [siki 学院](http://www.sikiedu.com/)
+- [雨松 MOMO 程序研究院](https://www.xuanyusong.com/page/10)
 
 ## Single
 
