@@ -2,11 +2,11 @@
 
 ## 设计能力
 
-1. 几种常用算法
-2. 设计模式
-3. C# 基础
-4. Lua
-5. UGUI 
+1. UGUI
+2. Lua
+3. 几种常用算法
+4. 设计模式
+5. C# 基础
 6. Unity 基础
 7. 网络连接原理
 8. 热更原理和方案
@@ -20,8 +20,17 @@
 
 ## 日常
 
-1. 每天看一个 UGUI 源码实现
-2. 每天学习一个算法
+1. UGUI
+   - 每天看一个 UGUI 源码实现
+   - [Unity 中文](https://docs.unity3d.com/cn/2019.4/Manual/UIToolkits.html) 
+   - [腾讯游戏学院 UGUI优化干货总结](https://gameinstitute.qq.com/community/detail/112745)
+   - [Unity UGUI优化与原理【unity官方】](http://www.ravedonut.com/archives/4918)
+   - [关于Unity中的UGUI优化，你可能遇到这些问题](https://developer.aliyun.com/article/435872)
+2. Lua
+   - C# 和 Lua 交互原理？
+   - [Lua book](https://moonbingbing.gitbooks.io/openresty-best-practices/content/lua/operator.html)
+   - [Lua 5.3 参考手册](https://cloudwu.github.io/lua53doc/manual.html)
+3. 每天学习一个算法
    - [数据结构与算法教程](http://data.biancheng.net/)
    - [网易云课堂 数据结构](https://mooc.study.163.com/learn/1000033001?tid=2403023004#/learn/content?type=detail&id=2403361512)
    - [清华学堂](https://www.xuetangx.com/course/THU08091000384/4231547?fromArray=course_list_all)
@@ -30,15 +39,13 @@
    - [二分算法](https://juejin.im/post/6844903911334101005)
    - [数据结构和算法（十）：二叉树](https://zhuanlan.zhihu.com/p/37470148)
    - [二叉树](https://juejin.im/post/6844903582202855438)   
-3. 每天学习一个设计模式
+4. 每天学习一个设计模式
    - [超全的设计模式简介（45种）](https://juejin.im/post/6844903822297415687)
    - [框架源码系列一：设计模式](https://www.cnblogs.com/leeSmall/p/10010006.html)
    - [24种设计模式介绍](https://www.jianshu.com/p/b676b8775041)   
-4. C# 图解教程
-5. Unity 从入门到精通
+5. C# 图解教程
+6. Unity 从入门到精通
    - [复旦大学 基于Unity引擎的游戏开发基础](https://www.coursera.org/learn/unity-yinqing-youxi-kaifa/home/welcome)
-6. UGUI 
-   - [腾讯游戏学院 UGUI优化干货总结](https://gameinstitute.qq.com/community/detail/112745)
 
 ## 计划
 
