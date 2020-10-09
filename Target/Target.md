@@ -5,12 +5,13 @@
 1. 几种常用算法
 2. 设计模式
 3. C# 基础
-4. Unity 基础
-5. UI 框架
-6. 网络连接原理
-7. 热更原理和方案
-8. 资源加载方案
-9. 性能优化
+4. Lua
+5. UGUI 
+6. Unity 基础
+7. 网络连接原理
+8. 热更原理和方案
+9. 资源加载方案
+10. 性能优化
 
 ## 编码能力
 
@@ -28,10 +29,16 @@
    - [常用算法指南(一)基本算法思想](https://zhuanlan.zhihu.com/p/36903717)
    - [二分算法](https://juejin.im/post/6844903911334101005)
    - [数据结构和算法（十）：二叉树](https://zhuanlan.zhihu.com/p/37470148)
-   - [二叉树](https://juejin.im/post/6844903582202855438)
-3. [每天学习一个设计模式]()
+   - [二叉树](https://juejin.im/post/6844903582202855438)   
+3. 每天学习一个设计模式
+   - [超全的设计模式简介（45种）](https://juejin.im/post/6844903822297415687)
+   - [框架源码系列一：设计模式](https://www.cnblogs.com/leeSmall/p/10010006.html)
+   - [24种设计模式介绍](https://www.jianshu.com/p/b676b8775041)   
 4. C# 图解教程
 5. Unity 从入门到精通
+   - [复旦大学 基于Unity引擎的游戏开发基础](https://www.coursera.org/learn/unity-yinqing-youxi-kaifa/home/welcome)
+6. UGUI 
+   - [腾讯游戏学院 UGUI优化干货总结](https://gameinstitute.qq.com/community/detail/112745)
 
 ## 计划
 
