@@ -12,3 +12,8 @@
 8. [Lambda 表达式（C# 编程指南）](https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/statements-expressions-operators/lambda-expressions)
 9. [DLL文件到底是什么，它们是如何工作的？](https://cloud.tencent.com/developer/ask/69913)
 10. [堆和栈的区别 之 数据结构和内存](http://www.cleey.com/blog/single/id/776.html)
+
+## Questions
+
+1. 构造函数？
+2. 序列化？
