@@ -35,7 +35,7 @@
 - [游戏UI框架设计(一) : 架构设计理论篇](https://www.cnblogs.com/LiuGuozhu/p/6416098.html)
 - [string.gsub（）用法](https://www.cnblogs.com/xiaoleiel/p/8295744.html)
 - [程序构建基块](https://docs.microsoft.com/zh-cn/dotnet/csharp/tour-of-csharp/program-building-blocks)
-- [2019 LFS](https://zhuanlan.zhihu.com/p/150217735)
+- [2019 LFS 达哥教程](https://zhuanlan.zhihu.com/p/150217735)
 
 ## UIAnim
 
