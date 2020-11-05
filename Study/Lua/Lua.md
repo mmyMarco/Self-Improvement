@@ -26,6 +26,7 @@
 
 1. [luahook获取 lua 性能](http://blog.crasheye.cn/lua-hook-performance.html)
 2. [Lua·001·性能优化](https://www.jianshu.com/p/58da61bfdca9)
+3. [编写高性能的Lua代码](https://wuzhiwei.net/lua_performance/)
 
 ## 热更新原理
 
