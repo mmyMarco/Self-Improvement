@@ -9,6 +9,7 @@
 ### String
 
   1. [string.gsub()](https://www.jianshu.com/p/f141027e1ca4)
+  2. [在 Lua 中实现 StringBuffer](https://ld246.com/article/1531101232639)
 
 ### Table
 
