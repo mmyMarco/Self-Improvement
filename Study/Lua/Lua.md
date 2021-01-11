@@ -5,6 +5,7 @@
  3. [Programming in Lua ](https://www.lua.org/pil/contents.html)
  4. [Lua 源码分析](https://blog.csdn.net/u012611878/article/details/51873648)
  5. [Unity引擎逻辑代码模块知识Tree](https://blog.uwa4d.com/archives/UWA_LCTree.html)
+ 6. [如何学习 Lua VM 的源码](https://www.zhihu.com/question/20617406)
  
 ## 数据结构
 
