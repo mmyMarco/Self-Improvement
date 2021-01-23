@@ -46,6 +46,7 @@
 5. C# 图解教程
 6. Unity 从入门到精通
    - [复旦大学 基于Unity引擎的游戏开发基础](https://www.coursera.org/learn/unity-yinqing-youxi-kaifa/home/welcome)
+7. [Dota 技能机制 ]（https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Scripting/Abilities_Data_Driven）
 
 ## 计划
 
